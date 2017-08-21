@@ -87,7 +87,7 @@
         "fis3-smarty":"1.1.3",
         "fis3-hook-page":"1.0.1",
         "fis3-hook-fix":"1.0.2",
-        "fis3-preprocessor-page":"1.0.5",
+        "fis3-preprocessor-page":"1.0.6",
         "fis3-deploy-page":"1.0.3",
         "fis3-deploy-imserver":"1.0.2",
         "fis3-hook-commonjs": "^0.1.22",
